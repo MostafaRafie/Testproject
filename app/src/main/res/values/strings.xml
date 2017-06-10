@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Jalase2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="mah">اردیبهشت</string>
+    <string name="jalase1">جلسه1</string>
+    <string name="jalase2">جلسه2</string>
+    <string name="jalase3">جلسه3</string>
+    <string name="jalase4">جلسه4</string>
+    <string name="jalase5">جلسه5</string>
+    <string name="not_assigned">نامعلوم</string>
+    <string name="b_hozor_ghiab">حضور/غیاب</string>
+    <string name="b_mosbat">مثبت</string>
+    <string name="b_manfi">منفی</string>
+    <string-array name="names">
+        <item>رضا صفربیاتی</item>
+        <item>ناصر صفربیاتی</item>
+        <item>محمدحسین معروفی</item>
+        <item>امیرمهدی عبدالهی</item>
+        <item>امین دلیر</item>
+        <item>امیرعلی باقری</item>
+        <item>مجتبی اصلانی</item>
+        <item>علی سلوکی</item>
+        <item>ابوالفضل حسینی</item>
+        <item>امیرحسین یونسی</item>
+        <item>محمدمهدی ترکمان</item>
+    </string-array>
+    <string name="title_activity_add_member">AddMember</string>
+    <string name="moshakhasat">مشخصات</string>
+</resources>
